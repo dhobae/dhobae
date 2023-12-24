@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development,Visual Game Development,Bot's
 - 🌱 I’m currently learning NodeJS,Laravel
 - 💞️ I’m looking to collaborate on Web Developer Junior
-- 📫 How to reach me ?, Instagram : @dho__bae or @ridhosaputs
+- 📫 How to reach me ? Instagram : @dho__bae or @ridhosaputs , LinkedIn : https://www.linkedin.com/in/dhobae/
 
 <!---
 r1dhosaputs/r1dhosaputs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
