@@ -18,7 +18,7 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 
 ### Connect with me:
 - 📫 [Email](stmik.mridhosaputra@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ridhosaputs](https://www.linkedin.com/in/dhobae)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dhobae)
 - 📷 [Instagram](https://www.instagram.com/dho__bae)
 ### Fun Fact:
 I once coded a text-based RPG game in Python during a weekend hackathon!
