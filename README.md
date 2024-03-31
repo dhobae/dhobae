@@ -21,14 +21,7 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhobae)
 - 📷 [Instagram](https://www.instagram.com/dho__bae)
 
-### GitHub Stats:
-![Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhobae&show_icons=true&theme=dark)
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhobae&layout=compact&theme=dark)
-
-### GitHub Activity Graph:
-![Dho's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhobae&theme=dark)
-
-### Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=dhobae)
+### :fire: My Stats
+[![GitHub stars](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true)](https://github.com/Dho)
+[![GitHub forks](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true&branch=fork)](https://github.com/Dho)
+[![GitHub commits](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true&commits_since=year)](https://github.com/Dho)
