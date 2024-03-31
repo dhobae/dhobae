@@ -24,4 +24,6 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 ### Fun Fact:
 I once coded a text-based RPG game in Python during a weekend hackathon!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=r1dhosaputs)
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fr1dhosaputs.r1dhosaputs%2Fcounter)
+
+
