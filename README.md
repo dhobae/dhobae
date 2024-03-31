@@ -9,20 +9,26 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 ### Skills:
 - **PHP**: Experienced in building web applications and backend systems.
 - **JavaScript**: Proficient in frontend development and creating interactive user interfaces.
-- **Python**: Skilled in building game using renPy.
+- **Python**: Skilled in building games using Ren'Py.
 
 <!-- ### Projects:
 - 🎲 [Project 1](link_to_project_1): Brief description.
 - 🕹️ [Project 2](link_to_project_2): Brief description.
-- 🚀 [Project 3](link_to_project_3): Brief description.-->
+- 🚀 [Project 3](link_to_project_3): Brief description. -->
 
 ### Connect with me:
 - 📫 [Email](stmik.mridhosaputra@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhobae)
 - 📷 [Instagram](https://www.instagram.com/dho__bae)
-### Fun Fact:
-I once coded a text-based RPG game in Python during a weekend hackathon!
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fr1dhosaputs.r1dhosaputs%2Fcounter)
+### GitHub Stats:
+![Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhobae&show_icons=true&theme=dark)
 
+### Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhobae&layout=compact&theme=dark)
 
+### GitHub Activity Graph:
+![Dho's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhobae&theme=dark)
+
+### Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=dhobae)
