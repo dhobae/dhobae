@@ -22,6 +22,6 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 - 📷 [Instagram](https://www.instagram.com/dho__bae)
 
 ### :fire: My Stats
-[![GitHub stars](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true)](https://github.com/Dho)
-[![GitHub forks](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true&branch=fork)](https://github.com/Dho)
-[![GitHub commits](https://github-readme-stats.vercel.app/api?username=Dho&showCount=true&commits_since=year)](https://github.com/Dho)
+[![GitHub stars](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true)](https://github.com/r1dhosaputs)
+[![GitHub forks](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true&branch=fork)](https://github.com/r1dhosaputs)
+[![GitHub commits](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true&commits_since=year)](https://github.com/r1dhosaputs)
