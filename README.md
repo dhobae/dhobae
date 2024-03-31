@@ -2,8 +2,8 @@
 
 I'm a passionate visual game developer and web developer with expertise in PHP, JavaScript, and Python.
 
-🎓 Currently studying
-🌱 Learning: Laravel,React,Vue.
+-🎓 Currently studying
+-🌱 Learning: Laravel,React,Vue.
 
 ### Skills:
 - **PHP**: Experienced in building web applications and backend systems.
