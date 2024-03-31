@@ -25,3 +25,6 @@ I'm a passionate game developer and software engineer with expertise in PHP, Jav
 [![GitHub stars](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true)](https://github.com/r1dhosaputs)
 [![GitHub forks](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true&branch=fork)](https://github.com/r1dhosaputs)
 [![GitHub commits](https://github-readme-stats.vercel.app/api?username=r1dhosaputs&showCount=true&commits_since=year)](https://github.com/r1dhosaputs)
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=r1dhosaputs)
