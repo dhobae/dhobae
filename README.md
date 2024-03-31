@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Dho]!
+### Hi there 👋, I'm Dho!
 
 I'm a passionate game developer and software engineer with expertise in PHP, JavaScript, and Python.
 
