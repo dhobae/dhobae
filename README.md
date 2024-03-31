@@ -2,9 +2,8 @@
 
 I'm a passionate game developer and software engineer with expertise in PHP, JavaScript, and Python.
 
-🎮 Currently working on: Developing a new indie game using Unity.
-
-🌱 Learning: Game design principles and advanced algorithms.
+🎓 Currently studying
+🌱 Learning: Laravel,React,Vue.
 
 ### Skills:
 - **PHP**: Experienced in building web applications and backend systems.
