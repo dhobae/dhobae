@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dho!
 
-I'm a passionate game developer and software engineer with expertise in PHP, JavaScript, and Python.
+I'm a passionate visual game developer and web developer with expertise in PHP, JavaScript, and Python.
 
 🎓 Currently studying
 🌱 Learning: Laravel,React,Vue.
