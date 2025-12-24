@@ -76,14 +76,6 @@ const dho = {
 - 💡 Exploring new game development techniques and web technologies
 - 📚 Constantly improving my coding skills through personal projects
 
-## 🎯 Goals for 2025
-
-- [ ] Master Laravel and build production-ready applications
-- [ ] Create and publish my first commercial visual novel
-- [ ] Contribute to open-source projects
-- [ ] Build a full-stack web application with React/Vue
-- [ ] Launch my portfolio website
-
 ## 💭 Random Dev Quote
 
 <div align="center">
